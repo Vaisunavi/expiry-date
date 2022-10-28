@@ -1,0 +1,193 @@
+Product name:Rice
+Expiry date:37/8/2025
+The product expires in: 3 years 03 months and 11 days
+Thu May 26 13:17:45 2022
+
+---------------------------------------------------
+Product name:wheat
+Expiry date:26/9/2024
+The product expires in: 2 years 04 months and 00 days
+Thu May 26 14:05:51 2022
+
+---------------------------------------------------
+Product name:mango
+Expiry date:54/5/2022
+The product expires in: 0 years 00 months and 27 days
+Fri May 27 13:57:05 2022
+
+---------------------------------------------------
+Product name:aspirin
+Expiry date:56/5/2022
+The product expires in: 0 years 00 months and 29 days
+Fri May 27 13:59:26 2022
+
+---------------------------------------------------
+Product name:cardomom
+Expiry date:46/16/2023
+The product expires in: 1 years 11 months and 19 days
+Fri May 27 19:15:17 2022
+
+---------------------------------------------------
+Product id:1
+Expiry date:44/6/2023
+Validity of product:408daysTue May 31 06:42:54 2022
+
+---------------------------------------------------
+Product id:1
+Expiry date:47/8/2026
+Validity of product:1566 days
+Tue May 31 06:50:53 2022
+
+---------------------------------------------------
+Product id:6
+Produc name:aquasol
+Expiry date:44/14/2026
+Validity of product:1743 days
+Tue May 31 06:53:17 2022
+
+---------------------------------------------------
+Product id:4
+Produc name:seacod
+Expiry date:46/6/2029
+Validity of product:2600 days
+Tue May 31 06:55:27 2022
+
+---------------------------------------------------
+Product id:5
+Produc name:spinach
+Expiry date:46/16/2026
+Validity of product:1805 days
+Tue May 31 06:58:10 2022
+
+---------------------------------------------------
+Product id:7
+Produc name:apple
+Expiry date:34/6/2029
+Validity of product:2588 days
+Tue May 31 06:59:23 2022
+
+---------------------------------------------------
+Product id:5
+Produc name:Ragi
+Expiry date:47/8/2023
+Validity of product:471 days
+Tue May 31 07:00:57 2022
+
+---------------------------------------------------
+Product id:6
+Produc name:Maida
+Expiry date:47/8/2027
+Validity of product:1931 days
+Tue May 31 07:01:52 2022
+
+---------------------------------------------------
+Product id:7
+Produc name:briyani
+Expiry date:33/6/2022
+Validity of product:32 days
+Tue May 31 07:03:59 2022
+
+---------------------------------------------------
+Product id:25
+Produc name:gulabjamun
+Expiry date:32/5/2022
+Validity of product:1 days
+Tue May 31 07:29:00 2022
+
+---------------------------------------------------
+Product id:77
+Produc name:milkybar
+Expiry date:32/5/2022
+Validity of product:1 days
+Tue May 31 07:30:15 2022
+
+---------------------------------------------------
+Product id:66
+Produc name:kitkat
+Expiry date:32/5/2022
+Validity of product:1 days
+Tue May 31 07:31:16 2022
+
+---------------------------------------------------
+Product id:45
+Produc name:pineapple
+Expiry date:32/5/2022
+Validity of product:1 days
+Tue May 31 13:35:45 2022
+
+---------------------------------------------------
+Product id:56
+Produc name:dal
+Expiry date:32/5/2022
+Validity of product:1 days
+Tue May 31 13:38:32 2022
+
+---------------------------------------------------
+Product id:5
+Product name:soap
+Expiry date:47/5/2025
+Validity of product:1111 days
+Tue May 31 13:42:12 2022
+
+---------------------------------------------------
+Product name:dates
+Expiry date:47/5/2025
+The product expires in: 3 years 00 months and 16 days
+Tue May 31 13:42:31 2022
+
+---------------------------------------------------
+Product id:16
+Product name:dairymilk
+Expiry date:33/13/2020
+Validity of product:0 days
+Tue May 31 13:54:29 2022
+
+---------------------------------------------------
+Product id:48
+Product name:nycil
+Expiry date:56/16/2028
+Validity of product:2545 days
+Tue May 31 13:55:27 2022
+
+---------------------------------------------------
+Product id:23
+Product name:falafel
+Expiry date:50/5/2029
+Validity of product:2574 days
+Tue May 31 13:57:08 2022
+
+---------------------------------------------------
+Product id:15
+Product name:bisuit
+Expiry date:47/7/2022
+Validity of product:76 days
+Tue May 31 14:03:38 2022
+
+---------------------------------------------------
+Product id:25
+Product name:cream
+Expiry date:57/8/2024
+Validity of product:819 days
+Tue Jun 28 09:52:49 2022
+
+---------------------------------------------------
+Product id:26
+Product name:glucose
+Expiry date:44/14/2026
+Validity of product:1716 days
+Tue Jun 28 09:53:01 2022
+
+---------------------------------------------------
+Product id:5
+Product name:perfume
+Expiry date:47/13/2021
+Validity of product:0 days
+Fri Aug 19 06:38:29 2022
+
+---------------------------------------------------
+Product name:perfume
+Expiry date:47/13/2021
+The product expires in: -1 years 05 months and 28 days
+Fri Aug 19 06:38:58 2022
+
+---------------------------------------------------
